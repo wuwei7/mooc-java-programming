@@ -34,5 +34,5 @@ dist/
 nbdist/
 .nb-gradle/
 
-misc/
 mooc-java-programming-i/**/target/
+**/**/nbactions.xml
